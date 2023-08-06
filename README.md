@@ -32,17 +32,17 @@ Animal detection with Flutter and TFLite. Animal Detector makes it possible to i
 ## Screenshots 📸
 
 ### Architecture -  
-<img src="arch.png">
+<img src="screenshots/arch.png">
 
 ### Test Cases -
-<img src="ts1.png">
-<img src="ts2.png">
+<img src="screenshots/ts1.png">
+<img src="screenshots/ts2.png">
 
 ### Results -
-<img src="res.png">
+<img src="screenshots/res.png">
 
 ### Graphs -
-<img src="grph.png">
+<img src="screenshots/grph.png">
 
 ##### This project contains generated files. Don't forget to run scripts below before running the project.
 ```sh
