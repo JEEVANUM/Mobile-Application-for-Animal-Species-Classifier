@@ -7,7 +7,7 @@ Animal detection with Flutter and TFLite. Animal Detector makes it possible to i
 ## Preview
 <p align='center'>
     <img src="screenshots/1.jpeg" width="32%"/>
-    <img src="screenshots/2.jpeg" width="32%"/>
+    <img src="Screenshot_20230727_192547.png" width="32%"/>
     <img src="screenshots/3.jpeg" width="32%"/>
 </p>
 
