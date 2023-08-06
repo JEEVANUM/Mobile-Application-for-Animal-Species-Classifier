@@ -29,6 +29,21 @@ Animal detection with Flutter and TFLite. Animal Detector makes it possible to i
     <img src="screenshots/3.jpeg" width="32%"/>
 </p>
 
+## Screenshots 📸
+
+### Architecture -  
+<img src="arch.png">
+
+### Test Cases -
+<img src="ts1.png">
+<img src="ts2.png">
+
+### Results -
+<img src="res.png">
+
+### Graphs -
+<img src="grph.png">
+
 ##### This project contains generated files. Don't forget to run scripts below before running the project.
 ```sh
 sh scripts/build_runner.sh
